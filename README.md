@@ -12,7 +12,7 @@ This repo provides the code that follows the Greatest Common Divisor example for
 ## ArcticFoxProject
 This folder contains the Arctic Fox project. This is identical to creating a new Arctic Fox project, except that the Verilog and RunCommands.cs are already present.
 
-*NOTE: Since Arctic Fox is in alpha, for security, only the Attributes, CommandScript, and Verilog folders are provided. You will need to have received access to the Arctic Fox alpha, create and Arctic Fox project, and copy the stated folders into your project.*
+*NOTE: Since Arctic Fox is in alpha, for security, only the CommandScript and Verilog folders are provided (no custom Attributes used). You will need to have received access to the Arctic Fox alpha, create and Arctic Fox project, and copy the stated folders into your project.*
 
 <br>
 <br>
