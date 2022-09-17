@@ -1,9 +1,12 @@
 # ArcticFoxGCD
 
 <p align="center">
-    <img src="https://icii.io/wp-content/uploads/2022/09/New-Arctic-Fox-Logo.Blue_.For-Animation.WithBehindForGaps-1.svg" alt="Arctic Fox Logo" style="width:300px"/>
+    <img src="https://icii.io/wp-content/uploads/2022/09/New-Arctic-Fox-Logo.Blue_.For-Animation.WithBehindForGaps-1.svg" alt="Arctic Fox Logo" style="width:300px;"/>
 </p>
 This repo provides the code that follows the Greatest Common Divisor example for Arctic Fox. This example was put together to give a quick introduction to Arctic Fox. 
+
+<br>
+<br>
 
 ## ArcticFoxProject
 This folder contains the Arctic Fox project. This is identical to creating a new Arctic Fox project, except that the Verilog and RunCommands.cs are already present.
